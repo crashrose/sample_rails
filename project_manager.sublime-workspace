@@ -4,86 +4,676 @@
 		"selected_items":
 		[
 			[
-				"u",
-				"ul	Tag"
+				"input",
+				"input_text"
 			],
 			[
-				"h",
-				"h1	Tag"
+				"asc",
+				"asc_checked"
+			],
+			[
+				"desc",
+				"desc_checked"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"simplexml",
+				"simplexml_load_string"
+			],
+			[
+				"smplexml",
+				"simplexml_load_string"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"item",
+				"item-text"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ite",
+				"item-text-inline-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"foot",
+				"football-info-text"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"football",
+				"football-info"
+			],
+			[
+				"width",
+				"width-800"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"men",
+				"menu-main"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"menu",
+				"menu-main"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ui-d",
+				"ui-draggable-dragging"
+			],
+			[
+				"peg",
+				"peg_cell_loc"
+			],
+			[
+				"peg_cell",
+				"peg_cell_loc"
+			],
+			[
+				"ui",
+				"ui-draggable"
+			],
+			[
+				"cell_",
+				"cell_col"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"c",
+				"cur_cell"
+			],
+			[
+				"em",
+				"empty_cells"
+			],
+			[
+				"cell",
+				"cell_row"
+			],
+			[
+				"empty",
+				"empty_cell"
+			],
+			[
+				"jumped",
+				"jumped_cell"
+			],
+			[
+				"jum",
+				"jumped_col"
+			],
+			[
+				"ju",
+				"jumped_row"
+			],
+			[
+				"epty",
+				"empty_cell"
+			],
+			[
+				"get",
+				"get_draggable_pegs"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"table",
+				"table_element"
+			],
+			[
+				"tabl",
+				"table_element"
+			],
+			[
+				"payment",
+				"payment_request_groups"
+			],
+			[
+				"event",
+				"event_groups"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"lineu",
+				"lineup_icon"
+			],
+			[
+				"form",
+				"formations-header"
+			],
+			[
+				"lineup",
+				"lineup_formation"
+			],
+			[
+				"platoon",
+				"platoon-details"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"htm",
+				"html_safe"
+			],
+			[
+				"Bod",
+				"bodyID"
+			],
+			[
+				"head",
+				"headingID"
+			],
+			[
+				"link_",
+				"link_text"
+			],
+			[
+				"stat",
+				"stat_data"
+			],
+			[
+				"platoon_area",
+				"platoon_area_id"
+			],
+			[
+				"spot",
+				"sport_platoon"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"Lineup",
+				"LineupPlatoon"
+			],
+			[
+				"stater",
+				"starter-list-item"
+			],
+			[
+				"non-stater",
+				"non-starter-list-item"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"sta",
+				"starter-list"
+			],
+			[
+				"non-starter",
+				"non-starter-list-item"
+			],
+			[
+				"roster",
+				"roster-list-item"
+			],
+			[
+				"player",
+				"player-limit"
+			],
+			[
+				"original",
+				"original-sortable"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"fi",
+				"firstSortUI"
+			],
+			[
+				"first",
+				"firstSortEvent"
+			],
+			[
+				"firstS",
+				"firstSortUI"
+			],
+			[
+				"ori",
+				"origEvent"
+			],
+			[
+				"orig",
+				"origUI"
+			],
+			[
+				"star",
+				"starter-spot"
+			],
+			[
+				"alrea",
+				"already_this_starter"
+			],
+			[
+				"alre",
+				"already_this_starter"
+			],
+			[
+				"alread",
+				"already_other_starter"
+			],
+			[
+				"dup",
+				"dup_to_remove"
+			],
+			[
+				"pos",
+				"position_uid"
+			],
+			[
+				"position",
+				"position_data"
+			],
+			[
+				"to",
+				"toElement"
+			],
+			[
+				"non",
+				"non-starters"
+			],
+			[
+				"formation",
+				"formation_position"
+			],
+			[
+				"line",
+				"lineup_player"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"pla",
+				"platoon-header"
+			],
+			[
+				"li",
+				"lineup_platoon"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"pct_",
+				"pct_platoons"
+			],
+			[
+				"starting_lineu",
+				"starting_lineup_formations"
+			],
+			[
+				"start",
+				"starting_lineup_formation"
+			],
+			[
+				"label",
+				"label_class"
+			],
+			[
+				"label_",
+				"label_class"
+			],
+			[
+				"la",
+				"label_text"
+			],
+			[
+				"so",
+				"sport_platoon"
+			],
+			[
+				"sport",
+				"sport_platoons"
+			],
+			[
+				"person",
+				"person_id"
+			],
+			[
+				"hm",
+				"html_safe"
+			],
+			[
+				"for",
+				"formation_position"
+			],
+			[
+				"formatin",
+				"formation_position_id"
+			],
+			[
+				"ror",
+				"rotation-outer"
+			],
+			[
+				"oppo",
+				"opponent_id"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"stat_li",
+				"stat_line_entries"
+			],
+			[
+				"cat",
+				"cat_stat_lines"
+			],
+			[
+				"stat_line",
+				"stat_line_items"
+			],
+			[
+				"trigger",
+				"trigger_node"
+			],
+			[
+				"node",
+				"node_to_delete"
+			],
+			[
+				"stat_",
+				"stat_line_entry"
+			],
+			[
+				"stat_line_it",
+				"stat_line_item_entries"
+			],
+			[
+				"stat_line_etry",
+				"stat_line_entry_units"
+			],
+			[
+				"stat_line_e",
+				"stat_line_entry"
+			],
+			[
+				"stat_l",
+				"stat_line_entry_unit"
+			],
+			[
+				"StatLine",
+				"StatLineEntryUnits"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/controllers/people_controller.rb",
+			"contents": "Wellversed in both JavaScript and CSS fundamentals.\nExperience with one or more JavaScript application frameworks and CSS extension languages.\nA firm understanding of responsive design and semantic HTML.\nKnowledge of Git, Subversion, or other version control systems.\nA good eye for visually appealing and intuitive user experiences.\nAbility to write clean, maintainable code.\nExcellent written and oral communication skills.\nExperience with API driven web applications is a plus.",
 			"settings":
 			{
-				"buffer_size": 365,
+				"buffer_size": 480,
+				"line_ending": "Windows",
+				"name": "Wellversed in both JavaScript and CSS fundamentals"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/laravelLocal/composer.json",
+			"settings":
+			{
+				"buffer_size": 869,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/people/index.html.erb",
+			"file": "/C/xampp/htdocs/laravelLocal/resources/views/includes/headlinks.blade.php",
 			"settings":
 			{
-				"buffer_size": 126,
+				"buffer_size": 1926,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "config/routes.rb",
+			"file": "/C/xampp/htdocs/laravelLocal/public/scss/style.scss",
 			"settings":
 			{
-				"buffer_size": 1622,
+				"buffer_size": 4400,
+				"line_ending": "Windows",
+				"name": "$color_one: green;"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/laravel/laravel/vendor/phpspec/phpspec/bin/phpspec",
+			"settings":
+			{
+				"buffer_size": 801,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/people/show.html.erb",
+			"file": "/C/xampp/htdocs/laravel/laravel/resources/views/pages/contact.blade.php",
 			"settings":
 			{
-				"buffer_size": 91,
+				"buffer_size": 3559,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/views/layouts/application.html.erb",
+			"file": "/C/xampp/htdocs/laravel/laravel/public/css/old_style.css",
 			"settings":
 			{
-				"buffer_size": 338,
+				"buffer_size": 7852,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "db/migrate/20140523180625_create_people.rb",
+			"file": "/C/xampp/htdocs/laravel/laravel/composer.json",
 			"settings":
 			{
-				"buffer_size": 258,
+				"buffer_size": 856,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "db/schema.rb",
+			"file": "/C/xampp/htdocs/laravel/laravel/public/index.php",
 			"settings":
 			{
-				"buffer_size": 991,
+				"buffer_size": 1812,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/laravelLocal/public/index.php",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/********** The Real Katie Rose core CSS **********/\n\n\n/*****************************************/\n/************** Base Styles **************/\n/*****************************************/\n\n* {\n    box-sizing: border-box;\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n}\nbody {\n    background-color: #ccc;\n    backface-visibility: hidden;\n    -webkit-backface-visibility: hidden;\n    -moz-backface-visibility: hidden;\n    padding: 10px 30px;\n    font-family: \"Calibri\", \"Trebuchet MS\", \"Helvetica\", sans-serif;\n}\nli {\n    display: list-item;\n    text-align: -webkit-match-parent;\n    text-align: match-parent;\n}\ndd {\n    margin-left: 18px;\n    display: list-item;\n    list-style-type: disc;\n    line-height: 1.2;\n}\ndt {\n    margin-top: 3px;\n    line-height: 1.2;\n}\ndd span {\n    margin-left: -4px;\n    display: block;\n}\ndl {\n    margin-bottom: 0px;\n}\nul {\n    list-style-type: none;\n}\nli {\n    display: list-item;\n    text-align: -webkit-match-parent;\n}\n.item-z-top {\n    z-index: 1020;\n}\n.no-pad {\n    padding: 0px;\n}\n\n/*****************************************/\n/*************  Page Layout  *************/\n/*****************************************/\n\n.container-flex {\n    display: flex;\n}\n.main-container {\n    z-index: 100;\n    right: 0;\n    position: absolute;\n    left: 0;\n    top: 100px;\n    width: 100%;\n    bottom: 0;\n    right: 0;\n    overflow: visible;\n    display: block;\n}\n.content-container {\n    width: 95%;\n    position: absolute;\n    left: 0;\n    margin-left: auto;\n    margin-right: auto;\n    right: 0;\n    bottom: 0;\n    height: 100%;\n}\n\n\n\n\n/*****************************************/\n/*************   Nav Menu   **************/\n/*****************************************/\n\n.nav-holder {\n    display: block;\n    position: fixed;\n    top: 0;\n    left: 0;\n    right: 0;\n    margin: 0;\n    height: 45px;\n    background-color: #444;\n    box-shadow: inset 0 0 10px #000000;\n    -webkit-box-shadow: inset 0 0 10px #000000;\n    -moz-box-shadow: inset 0 0 10px #000000;\n    z-index: 500;\n}\n.nav-container {\n    -webkit-padding-start: 0px;\n    -moz-padding-start: 0px;\n    z-index: 200;\n    position: absolute;\n    top: 10px;\n    display: flex;\n}\n.nav-item {\n    min-width: 30px;\n    height: 45px;\n    font-family: 'Reenie Beanie', cursive;\n    font-size: 2.9em;\n    color: white;\n    margin-left: 6px;\n    margin-top: 10px;\n    text-decoration: none;\n    line-height: 1.15;\n    background-color: transparent;\n}\n/*.nav-item.nav-home {\n    height: 65px;\n    font-size: 4.5em;\n    line-height: 1;\n}*/\n.nav-item.nav-home .nav-item-bottom,\n.nav-item-top {\n    padding-left: 16px;\n    padding-right: 16px;\n}\n.nav-item span {\n    width: 100%;\n}\n.nav-item a {\n    text-decoration: none;\n    color: white;\n    overflow: visible;\n    width: 100%;\n}\n.nav-item-bottom,\n.nav-item-top {\n    z-index: 1;\n    width: 100%;\n    height: 100%;\n    top: 0px;\n    left: 0px;\n    padding-left: 9px;\n    padding-right: 9px;\n    transition: .3s;\n    -webkit-transition: .3s;\n    -o-transition: .3s;\n    -moz-transition: .3s;\n    box-shadow: 1px 3px 10px 0px black;\n    -webkit-box-shadow: 1px 3px 10px 0px black;\n    -moz-box-shadow: 1px 3px 10px 0px black;\n    overflow: visible;\n}\n/* init div when not over */\n\n\n.nav-item-top {\n    background-color: #aaa;\n    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n    -o-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);\n    transform-origin: center 100% 0px;\n    -ms-transform-origin: center 100% 0px;\n    -webkit-transform-origin: center 100% 0px;\n    -o-transform-origin: center 100% 0px;\n    -moz-transform-origin: center 100% 0px;\n}\n/*init div when over */\n\n.nav-item:hover .nav-item-top {\n    z-index: 3;\n    background-color: #999;\n    transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, -0.00051, 0, -1, 0, 0, 0, -45, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, -0.00051, 0, -1, 0, 0, 0, -45, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, -0.00051, 0, -1, 0, 0, 0, -45, 0, 1);\n    -o-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, -0.00051, 0, -1, 0, 0, 0, -45, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, -0.00051, 0, -1, 0, 0, 0, -45, 0, 1);\n}\n .nav-item-top {\n    z-index: 3;\n    background-color: #999;\n    transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.001, 0, -1, 0, 0, 0, -65, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.001, 0, -1, 0, 0, 0, -65, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.001, 0, -1, 0, 0, 0, -65, 0, 1);\n    -o-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.001, 0, -1, 0, 0, 0, -65, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.001, 0, -1, 0, 0, 0, -65, 0, 1);\n}\n/* over div when not over */\n\n.nav-item-bottom {\n    background-color: #666;\n    transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.00051, 0, -1, 0, 0, 0, 0, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.00051, 0, -1, 0, 0, 0, 0, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.00051, 0, -1, 0, 0, 0, 0, 0, 1);\n    -o-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.00051, 0, -1, 0, 0, 0, 0, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0.00, 0, 0.00, 0, 1.00, 0.00051, 0, -1, 0, 0, 0, 0, 0, 1);\n    transform-origin: center 0% 0px;\n    -ms-transform-origin: center 0% 0px;\n    -webkit-transform-origin: center 0% 0px;\n    -o-transform-origin: center 0% 0px;\n    -moz-transform-origin: center 0% 0px;\n}\n/* over div when over */\n\n.nav-item:hover .nav-item-bottom {\n    z-index: 2;\n    background-color: #222;\n    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -45, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -45, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -45, 0, 1);\n    -o-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -45, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -45, 0, 1);\n}\n .nav-item-bottom {\n    z-index: 2;\n    background-color: #222;\n    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -65, 0, 1);\n    -ms-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -65, 0, 1);\n    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -65, 0, 1);\n    -o-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -65, 0, 1);\n    -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, -65, 0, 1);\n}\n\n/*****************************************/\n/***************  Masonry  ***************/\n/*****************************************/\n\n.item {\n    width: 8.333%;\n    padding: .6vw;\n}\n.item-wrapper img {\n    border-radius: 4px;\n}\n.item img {\n    min-width: 10%;\n    max-width: 100%;\n    height: auto;\n}\n.item-wrapper {\n    box-shadow: 0 6px 6px -6px #222, 1px 2px 5px 1px #444;\n    -webkit-box-shadow: 0 6px 6px -6px #222, 1px 2px 5px 1px #444;\n    -moz-box-shadow: 0 6px 6px -6px #222, 1px 2px 5px 1px #444;\n    border: 2px solid white;\n    border-radius: 4px;\n    background-color: #F05724;\n    border-color: #F05724;\n    padding: 2px;\n}\n.item.w20 {\n    width: 16.666%;\n}\n.item.w30 {\n    width: 25%;\n}\n.item.w40 {\n    width: 33.333%;\n}\n.item.w50 {\n    width: 41.666%;\n}\n.item.w80 {\n    width: 80%;\n}\n.grid-sizer {\n    width: 8.3333%;\n}\n.gutter-sizer {\n    width: 2px;\n}\n\n\n\n/*****************************************/\n/***************  Pages  *****************/\n/*****************************************/\n\n\n/*****  Football  *****/\n#body-football .item-wrapper {\n    background-color: #F05724;\n    border-color: #F05724;\n}\n.football-info {\n    padding: 3px;\n}\n.football-info-text {\n    color: #555;\n}\n.football-info h3 {\n    margin-top: 0px;\n}\n.football-info-header {\n    font-weight: bold;\n    font-size: 2em;\n    font-family: \"Trebuchet MS\", Helvetica, sans-serif;\n}\n\n\n\n/*****  Projects  *****/\n#body-projects .item-wrapper {\n    background-color: #477A47;\n    border-color: #477A47;\n}\ndiv[data-type=\"Javascript\"].item-wrapper {\n    background-color: #F05724 !important;\n    border-color: #F05724 !important;\n}\ndiv[data-type=\"Python\"].item-wrapper {\n    background-color: #477A47 !important;\n    border-color: #477A47 !important;\n}\ndiv[data-type=\"Java\"].item-wrapper {\n    background-color: #813F6D !important;\n    border-color: #813F6D !important;\n}\ndiv[data-type=\"PHP\"].item-wrapper {\n    background-color: #4B529A !important;\n    border-color: #4B529A !important;\n}\ndiv[data-type=\"Various\"].item-wrapper {\n    background-color: #D24848 !important;\n    border-color: #D24848 !important;\n}\n#body-projects .item h3,\n#body-projects .item h2,\n#body-projects .item h1 {\n    font-weight: bold;\n    font-size: 2em;\n    font-family: \"Trebuchet MS\", Helvetica, sans-serif;\n    margin: 1vw;\n    text-align: center;\n    font-weight: bolder;\n    color: #eee;\n}\n#body-projects .item-text span {\n    color: #ddd;\n    font-size: 1vw;\n    font-weight: normal;\n}\n\n\n\n/*****  Comedy  *****/\n#body-comedy .item-wrapper {\n    background-color: #813F6D;\n    border-color: #813F6D;\n}\n\n\n\n/*****  Personal  *****/\n#body-personal .item-wrapper {\n    background-color: #4B529A;\n    border-color: #4B529A;\n}\n\n\n\n/*****  Art  *****/\n#body-art .item-wrapper {\n    background-color: #eadf48;\n    border-color: #eadf48;\n}\ndiv[data-type=\"Painting\"].item-wrapper {\n    background-color: #F05724 !important;\n    border-color: #F05724 !important;\n}\ndiv[data-type=\"Drawing\"].item-wrapper {\n    background-color: #477A47 !important;\n    border-color: #477A47 !important;\n}\ndiv[data-type=\"Design\"].item-wrapper {\n    background-color: #813F6D !important;\n    border-color: #813F6D !important;\n}\ndiv[data-type=\"Photography\"].item-wrapper {\n    background-color: #4B529A !important;\n    border-color: #4B529A !important;\n}\n\n\n\n/*****  Resume  *****/\n#body-resume .item-wrapper {\n    background-color: #D24848;\n    border-color: #D24848;\n}\n#body-resume h2 {\n    font-size: 1.7vw;\n    color: #eee;\n    font-weight: bold;\n    font-family: \"Trebuchet MS\", Helvetica, sans-serif;\n    margin: .4vw .2vw .2vw .1vw;\n    text-align: center;\n    font-weight: bolder;\n}\n#body-resume .item h3 {\n    margin: .7vw 0vw .1vw 0vw;\n    font-weight: bold;\n    color: #888;\n}\n#body-resume .item h4,\n#body-resume .item h5 {\n    line-height: 1;\n    margin: .2vw 0vw;\n}\n\n\n/*****************************************/\n/**************  Content  ****************/\n/*****************************************/\n.image-link {\n    cursor: -webkit-zoom-in;\n    cursor: -moz-zoom-in;\n    cursor: zoom-in;\n}\n.item-text {\n    padding: .2vw .6vw .6vw .6vw;\n}\n.item-text span {\n    padding-right: 3px;\n    font-family: \"Calibri\", \"Trebuchet MS\", \"Helvetica\", sans-serif;\n}\n.item-inline {\n    display: flex;\n}\n.item-text-inline-right {\n    width: 50%;\n    float: right;\n    margin-top: 0;\n    text-align: left;\n}\n.item-text-inline-left {\n    width: 50%;\n    float: left;\n    margin-top: 0;\n    text-align: right;\n}\n.item-text-wrapper {\n    background-color: #fff;\n    border-radius: 4px;\n}\np.subhead {\n    line-height: .6;\n}\n#body-comedy .item-wrapper {\n    background-color: #813F6D;\n    border-color: #813F6D;\n}\ndiv.item-title {\n    padding: 0 0 .5vw 0;\n}\ndiv.item-title h2 {\n    margin: 0px;\n}\n.with-subhead {\n    line-height: .8;\n}\ndiv.item-footer {\n    padding-right: 3px;\n    font-family: \"Trebuchet MS\", Helvetica, sans-serif;\n    font-size: 1vw;\n    font-weight: bold;\n    color: white;\n    padding-top: 4px;\n}\n[data-show-footer=\"true\"] {\n    text-align: right;\n}\ndd.empty {\n    display: none;\n}\ndt.title-large {\n    font-size: 1.2em;\n    margin-top: 0px;\n}\ndt.accomp {\n    font-style: italic;\n}\n.container-size {} .fixwidth {\n    width: inherit;\n}\n\n/*****************************************/\n/***************  Titles  ****************/\n/*****************************************/\n.title-text-shadow {\n    opacity: 0.7;\n    z-index: 2;\n    color: #666;\n    position: absolute;\n    top: 1.7vw;\n    left: 0;\n    transform: matrix(1, 0.00, -0.77, .2, 20, 0);\n    -ms-transform: matrix(1, 0.00, -0.77, .2, 20, 0);\n    -webkit-transform: matrix(1, 0.00, -0.77, .2, 20, 0);\n    -o-transform: matrix(1, 0.00, -0.77, .2, 20, 0);\n    -moz-transform: matrix(1, 0.00, -0.77, .2, 20, 0);\n    transform-origin: center bottom;\n    -ms-transform-origin: center bottom;\n    -webkit-transform-origin: center bottom;\n    -o-transform-origin: center bottom;\n    -moz-transform-origin: center bottom;\n    z-index: -10;\n}\n.title-text {\n    z-index: 50;\n    color: black;\n    position: relative;\n    line-height: .7;\n}\n.title-relative {\n    font-size: 12vw;\n    font-family: 'Reenie Beanie', cursive;\n    -webkit-text-stroke-width: 3px;\n    line-height: .7;\n    margin-right: auto;\n    padding-top: 2.2vw;\n}\ndiv.title-relative div {\n    letter-spacing: -5px;\n}\n\n/*****************************************/\n/***************  Magnific  **************/\n/*****************************************/\n\n/* This block of CSS adds opacity transition to background */\n.mfp-with-zoom .mfp-container,\n.mfp-with-zoom.mfp-bg {\n    opacity: 0;\n    backface-visibility: hidden;\n    -webkit-backface-visibility: hidden;\n    -moz-backface-visibility: hidden;\n    transition: all 0.3s ease-out;\n    -webkit-transition: all 0.3s ease-out;\n    -o-transition: all 0.3s ease-out;\n    -moz-transition: all 0.3s ease-out;\n}\n.mfp-with-zoom.mfp-ready .mfp-container {\n    opacity: 1;\n}\n.mfp-with-zoom.mfp-ready.mfp-bg {\n    opacity: 0.8;\n}\n.mfp-with-zoom.mfp-removing .mfp-container,\n.mfp-with-zoom.mfp-removing.mfp-bg {\n    opacity: 0;\n}\n/* padding-bottom and top for image */\n.mfp-no-margins img.mfp-img {\n    padding: 0;\n    max-height: 90%;\n}\n/* position of shadow behind the image */\n.mfp-no-margins .mfp-figure:after {\n    top: 0;\n    bottom: 0;\n}\n/* padding for main container */\n.mfp-no-margins .mfp-container {\n    padding: 0;\n}\n/* aligns caption to center */\n.mfp-title {\n    text-align: center;\n    padding: 6px 0;\n}\ndiv.mfp-content .mfp-figure:after {\n    background-color: #bbb;\n}\n\n\n/*****************************************/\n/*********  Designated Coloring  *********/\n/*****************************************/\n\n.bg-orange {\n    background-color: #F05724 !important;\n    border-color: #F05724 !important;\n}\n.bg-green {\n    background-color: #477A47 !important;\n    border-color: #477A47 !important;\n}\n.bg-purple {\n    background-color: #813F6D !important;\n    border-color: #813F6D !important;\n}\n.bg-blue {\n    background-color: #4B529A !important;\n    border-color: #4B529A !important;\n}\n.bg-red {\n    background-color: #D24848 !important;\n    border-color: #D24848 !important;\n}\n.bg-yellow {\n    background-color: #eadf48 !important;\n    border-color: #eadf48 !important;\n}\n\n\n/*****************************************/\n/*************  Front Page  **************/\n/*****************************************/\n\nli.menu_navigation {\n    position: relative;\n    width: 16.6%;\n    padding-bottom: 2px;\n}\nli.menu_navigation img.menu-image {\n    opacity: .5;\n    transform: translateZ(0);\n    -ms-transform: translateZ(0);\n    -webkit-transform: translateZ(0);\n    o-transform: translateZ(0);\n    moz-transform: translateZ(0);\n    transition: .5s;\n    -webkit-transition: .5s;\n    -o-transition: 0.5s;\n    -moz-transition: 0.5s;\n    width: 100%;\n    filter: grayscale(100%);\n    -webkit-filter: grayscale(100%);\n}\nli.menu_navigation:hover img.menu-image {\n    opacity: 1;\n    width: 100%;\n    filter: grayscale(0%);\n    -webkit-filter: grayscale(0%);\n}\nul.menu-main .red0 {\n    background-color: #9f1515;\n}\nul.menu-main .blue0 {\n    background-color: #0e155d;\n}\nul.menu-main .purple0 {\n    background-color: #4b0937;\n}\nul.menu-main .orange0 {\n    background-color: #cc3300;\n}\nul.menu-main .green0 {\n    background-color: #003300;\n}\nul.menu-main .yellow0 {\n    background-color: #DACA00;\n}\nul.menu-main a {\n    text-decoration: none;\n    color: inherit;\n}\ndiv.menu-title {\n    position: absolute;\n    bottom: 0px;\n    width: 100%;\n    background-color: inherit;\n    color: white;\n    height: 35%;\n    transition: all .5s ease;\n    -webkit-transition: all .5s ease;\n    -o-transition: all 0.5s ease;\n    -moz-transition: all 0.5s ease;\n}\ndiv.menu-title span {\n    font-family: 'Reenie Beanie', cursive;\n    margin-bottom: 1px;\n    margin-left: 8px;\n    line-height: .9;\n    font-size: 2.6vw;\n    font-weight: bolder;\n    position: absolute;\n    top: 6px;\n    transition: all .5s ease;\n    -webkit-transition: all .5s ease;\n    -o-transition: all 0.5s ease;\n    -moz-transition: all 0.5s ease;\n    width: 100%;\n    text-decoration: none;\n}\nli.menu_navigation:hover .menu-title {\n    height: 20%;\n    border-top: solid 3px white;\n}\nli.menu_navigation:hover span {\n    top: 2px;\n}\ndiv.front-logo-image {\n    max-width: 60vw;\n    max-height: 800px;\n}\ndiv.front-banner {\n    font-family: 'Reenie Beanie', cursive;\n    margin-bottom: 40px;\n    margin-top: 40px;\n}\ndiv.front-banner h1 {\n    font-size: 4em;\n    letter-spacing: -3px;\n}\ndiv.front-logo-text {\n    margin: 40px;\n}\n#body-home {\n    background-color: white;\n}",
+			"settings":
+			{
+				"buffer_size": 17193,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "app/models/person.rb",
+			"file": "/C/xampp/htdocs/laravelLocal/public/css/trkr.css",
 			"settings":
 			{
-				"buffer_size": 431,
-				"line_ending": "Unix"
+				"buffer_size": 19356,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/laravelLocal/resources/views/includes/navmenu.blade.php",
+			"settings":
+			{
+				"buffer_size": 3218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<title>Nested Kwicks Example</title>\n\n		<link rel='stylesheet' type='text/css' href='css/fullcalendar.css' />\n		<script src='js/jquery-1.8.1.min.js' type='text/javascript'></script>\n		<script src='js/moment.min.js' type='text/javascript'></script>\n		<script src='js/fullcalendar.js' type='text/javascript'></script>\n		<script src='js/gcal.js' type='text/javascript'></script>\n<script type='text/javascript'>\n\n$(document).ready(function() {\n    $('#calendar').fullCalendar({\n        googleCalendarApiKey: 'AIzaSyB_JqzGDubLKBUqYE8EhNHYJgl3wF37g-c',\n        events: {\n            googleCalendarId: 'ril2tvk25c2kq2pkipenarq9oc@group.calendar.google.com'\n        }\n    });\n});\n\n</script>\n	</head>\n	\n	<body>\n<table>\n<?php \n// $request = 'https://api.flickr.com/services/rest/?method=flickr.photos.search';\n// $request .= '&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=test2&format=json&nojsoncallback=1&api_sig=1c6ba27d1e49e72a8787725896b15631';\n// $request .= '&extras=url_t%2Curl_b%2Cdescription%2Ctags%2Cdate_taken%2Cowner_name';\n$request='https://api.flickr.com/services/rest/?method=flickr.photos.search';\n$request .= '&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=test2&extras=url_t%2Ctags%2Curl_l%2Cowner_name%2Cdate_taken';\n$request .= '&format=json&nojsoncallback=1&api_sig=a654b8603a8cb97c6f5d1f732a5a35b0';\n$response = json_decode(file_get_contents($request));\n// // echo $photos;\n// $response = simplexml_load_string($response);\n// // $photos = simplexml_load_string($response->photos);\n// $photos = $response->photos;\n// print_r($response);\n$photos = $response->photos->photo;\n// print_r($photos);	\n\n\nhttps://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=team&extras=url_t%2Ctags%2Curl_l%2Cowner_name%2Cdate_taken&format=json&nojsoncallback=1&api_sig=a654b8603a8cb97c6f5d1f732a5a35b0\nhttps://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=test&extras=url_s%2Ctags%2Curl_l%2Cowner_name%2Cdate_taken&format=json&nojsoncallback=1&api_sig=881b56f34b7d0e643d8f8635244ddc40\nhttps://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=team&extras=url_t%2Ctags%2Curl_l%2Cowner_name%2Cdate_taken&format=json&nojsoncallback=1&api_sig=d24852f1f4babed381be9753ee6f61fe\nhttps://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=team&extras=url_t%2Ctags%2Curl_l%2Cowner_name%2Cdate_taken&format=json&nojsoncallback=1\n\n\n// description, license, date_upload, date_taken, owner_name, icon_server, \n// original_format, last_update, geo, tags, machine_tags, o_dims, views, media, \n// path_alias, url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o\n\n// $photos = file_get_contents('https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=7f69c27c9e7735a155869d29c1564af9&tags=test2&format=rest');\n// // // echo $photos;\n// $photos = new SimpleXMLElement($photos);\n// print_r($photos->photos[0]);\n\nforeach ($photos as $photo) {\n	// echo($details->title);\n	$tn = '<a href=\"'.$photo->url_l.'\"><img src=\"'.$photo->url_t.'\"></a>';\n	$url = $photo->url_l;\n	// $desc = $photo->description;\n	$tags = $photo->tags;\n	$title = $photo->title;\n	$owner = $photo->ownername;\n	$date_taken = $photo->datetaken;\nprint \"<tr><td>\".$title.\"</td><td>\".$owner.\"</td><td>\".$date_taken.\"</td><td>\".$tags.\"</td><td>\".$tn.\"</td></tr>\";\n	# code...\n}\n// echo $photos->photo[0];\n\n?>\n<!-- <div style=\"width:50%;\" id='calendar'></div> -->\n</table>\n	</body>\n</html>",
+			"file": "/C/xampp/htdocs/laravel/laravel/resources/views/pages/projects.blade.php",
+			"file_size": 2755,
+			"file_write_time": 130780003314471498,
+			"settings":
+			{
+				"buffer_size": 3610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/laravelLocal/resources/views/pages/projects/flickr.blade.php",
+			"settings":
+			{
+				"buffer_size": 3560,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "DevOps: DO\nGridiron: Gr\nGridiron Topics: G1 - G7\nEvents: Ev\nGet More Info: In\n\n\n\nHi Mike,\n\nAs promised, here are the placeholder icons. I created two versions of each, one large and one small. The large icons have a grey border and the \"_lg\" suffix while the small icons have a white border and the \"_sm\" suffix. I created an icon for each of the topic areas, named as follows:\n\nDevOps: DO\nGridiron: Gr\nGridiron Topics: G1 - G7\nEvents: Ev\nGet More Info: In\n\nI'll throw together some basic html on Monday so you have the containers they'll be in, etc. If you want to get started before that, though, let's just say for now the div id's will be:\nLarge Topic Icon: topic-icon-##\nUpper Dock Icon: upper-icon-##\nLower Dock Icon: lower-icon-##\n\n...where the \"##\" is replaced by the abbreviation used in the file name for each topic. We can definitely do it some other way, I just want to get a methodology going so we can each get started. Let me know if there's another methodology you'd like to use.\n\nLet's meet early Monday to make sure we have our base environment set up and we both have what we need to get the basic page mock up going. \n\nHave a great weekend!\nKatie\n\n\n\nP.S. - Don't worry about the look of them, they really bear no resemblance to what the eventual icons will be like. \n",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Windows",
+				"name": "DevOps: DO"
+			}
+		},
+		{
+			"contents": "@extends('layouts.main', ['title' => 'Flickr API Search', 'menu_item' => 'projects', 'projects_nav_selected' => 'nav-projects-selected selected'])\n\n@section('content')\n<h2>Flickr Search</h2>\n<h4>Use the text box below to enter the image tags you want to search for.</h4>\n<?php\n	if (Input::has('sort')) {\n		switch (Input::get('sort')) {\n			case 'asc':\n				$asc_checked=\"checked\";\n				$desc_checked=\"\";\n				$sort = 'asc';\n				break;\n			case 'desc':\n				$desc_checked=\"checked\";\n				$asc_checked=\"\";\n				$sort = 'desc';\n				break;\n		}\n	}\n	else {\n		$desc_checked=\"checked\";\n		$asc_checked=\"\";\n		$sort = 'desc';\n	}\n	$input_text = Input::has('tag') ? Input::get('tag') : \"\"\n	?>\n<form action=\"flickr\" method=\"post\">\n<div class=\"col-md-2\">\n	<h4>Tags:</h4>\n	<input type=\"text\" name=\"tag\" value=\"<?php print $input_text; ?>\">\n</div>\n<div class=\"col-md-3\">\n	<h4>Sort by:</h4> \n	<input type=\"radio\" name=\"sort\" value=\"asc\" <?php print $asc_checked ?> >Oldest First \n	<input type=\"radio\" name=\"sort\" value=\"desc\" <?php print $desc_checked ?> >Newest First\n</div>\n<div class=\"col-md-2\"><BR><input type=\"submit\"></div><BR><BR>\n<input type=\"hidden\" name=\"_token\" value=\"<?php echo csrf_token(); ?>\">\n</form><BR><BR>\n\n\n		<?php \n			if (Input::has('tag'))	{\n\n				// Remove extra spaces between search terms from input string\n				$tag_input = urlencode(str_replace(\", \",\",\",Input::get('tag')));\n\n				// Build request string\n				$request='https://api.flickr.com/services/rest/?method=flickr.photos.search';\n				$request .= '&api_key=8aae9cdc6ed4244d0df7f1b0abd3d51e'; // My API key\n				$request .= '&tags='. $tag_input; // Input::get('tag'); // Add specified tags\n				$request .= '&sort=date-taken-' . $sort;\n				// TO DO: Add possible filters to form and requesst\n				$request .= '&extras=url_t%2Ctags%2Curl_o%2Cowner_name%2Cdate_taken'; // Pull extra API data for image details and links\n				$request .= '&format=json&nojsoncallback=1'; // Specify format\n				// print $request;\n				$response = json_decode(file_get_contents($request)); // Submit API call and store response\n\n				$photos = $response->photos->photo; // Save photo data from response into array\n				?>\n				<table class=\"table table-hover\">\n				<th class=\"col-md-1\">Image</th>\n				<th class=\"col-md-3\">Title</th>\n				<th class=\"col-md-2\">Owner</th>\n				<th class=\"col-md-1\">Date Taken</th>\n				<th class=\"col-md-5\">Tags</th>\n\n				<?php\n				// print \"<table><th>Image</th><th>Title</th><th>Owner</th><th>Date</th><th>Tags</th>\";\n				foreach ($photos as $photo) {\n					$url = array_key_exists('url_o', $photo) ? $photo->url_o : \"na\"; // Test if url to original photo exists\n					// $tags = sort(explode(\" \",$photo->tags));\n					// print_r($tags);\n					// $tags = $photo->tags;\n\n					// Trim tags to top 30 alphabetically\n					$tags = explode(\" \",$photo->tags);\n					// sort($tags);\n					// $tags = array_slice($tags, 0, 30);\n					// implode(\", \", $tags);\n					// $tags = implode(\", \",array_slice(sort(explode(\" \",$tags)),0,10));\n\n					// Build link to allow zoom in to original image as popup from thubnail\n					$tn = '<a href=\"'.$url.'\" class=\"without-caption image-link\"><img src=\"'.$photo->url_t.'\"></a>';\n					print \"<tr><td>\".$tn.\"</td>\";\n					print \"<td>\".$photo->title.\"</td>\";\n					print \"<td>\".$photo->ownername.\"</td>\";\n					print \"<td>\".date(\"m/d/Y\",strtotime($photo->datetaken)).\"</td>\";\n					print \"<td>\". str_replace(\" \",\", \", $photo->tags).\"</td></tr>\";\n					\n					// Print table\n					print '<div class=\"row\">';\n					// print '<div class=\"col-md-1\">'.$tn.'</div>';\n					// print '<div class=\"col-md-3\">'.$photo->title.'</div>';\n					// print '<div class=\"col-md-2\">'.$photo->ownername.'</div>';\n					// print '<div class=\"col-md-1\">'.date(\"m/Y/d\",strtotime($photo->datetaken)).'</div>';\n					// print '<div class=\"col-md-5\">'.implode(\", \", $tags).'</div>';\n					// print '</div>';\n					// print '<td>\".$photo->title.\"</td><td>\".$photo->ownername.\"</td><td>\".date(\"m/Y/d\",strtotime($photo->datetaken)).\"</td><td>\".implode(\", \", $tags).\"</td></tr>\";\n				}\n			print \"</table>\";\n			}\n			else {\n				print \"To search for images, enter a tag to search for in the box above and click submit.\";\n			}\n\n\n\n// Add details to zoomed in image\n		?>\n\n\n@stop\n",
+			"settings":
+			{
+				"buffer_size": 4198,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<title>Nested Kwicks Example</title>\n\n		<link rel='stylesheet' type='text/css' href='css/fullcalendar.css' />\n		<script src='js/jquery-1.8.1.min.js' type='text/javascript'></script>\n		<script src='js/moment.min.js' type='text/javascript'></script>\n		<script src='js/fullcalendar.js' type='text/javascript'></script>\n		<script src='js/gcal.js' type='text/javascript'></script>\n<script type='text/javascript'>\n\n$(document).ready(function() {\n    $('#calendar').fullCalendar({\n        googleCalendarApiKey: 'AIzaSyB_JqzGDubLKBUqYE8EhNHYJgl3wF37g-c',\n        events: {\n            googleCalendarId: 'ril2tvk25c2kq2pkipenarq9oc@group.calendar.google.com'\n        }\n    });\n});\n\n</script>\n	</head>\n	\n	<body>\n<table>\n<?php \n$request = 'https://api.flickr.com/services/rest/?method=flickr.photos.search';\n$request .= 'api_key=ce76f3e0c7cf6ec7b037387b6b3a5925&tags=test2&format=json&nojsoncallback=1&api_sig=1c6ba27d1e49e72a8787725896b15631';\n$request .= '&extras=url_t,url_b,description,tags,date_taken,owner_name';\n$response = json_decode(file_get_contents($request));\n// // echo $photos;\n// $response = simplexml_load_string($response);\n// // $photos = simplexml_load_string($response->photos);\n// $photos = $response->photos;\n// print_r($response);\n$photos = $response->photos->photo;\n// print_r($photos);	\n\n\n// description, license, date_upload, date_taken, owner_name, icon_server, \n// original_format, last_update, geo, tags, machine_tags, o_dims, views, media, \n// path_alias, url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o\n\n// $photos = file_get_contents('https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=7f69c27c9e7735a155869d29c1564af9&tags=test2&format=rest');\n// // // echo $photos;\n// $photos = new SimpleXMLElement($photos);\n// print_r($photos->photos[0]);\n\nforeach ($photos as $key => $photo) {\n	// echo($details->title);\n	$tn = $photo->url_t;\n	$url = $photo->url_b;\n	$desc = $photo->description;\n	$tags = $photo->tags;\n	$title = $photo->title;\n	$owner = $photo->owner_name;\nprint \"<tr><td>\".$title.\"</td><td>\".$owner_name.\"</td><td>\".$date_taken.\"</td><td>\".$tags.\"</td><td>\".$description.\"</td></tr>\";\n	# code...\n}\n// echo $photos->photo[0];\n\n?>\n<!-- <div style=\"width:50%;\" id='calendar'></div> -->\n</table>\n	</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 2315,
+				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
 	{
-		"height": 311.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
@@ -91,15 +681,103 @@
 				"Package Control: Install Package"
 			],
 			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: erb",
+				"Snippet: if / end erb"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ERB tags"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ruby",
+				"Snippet: Ruby if"
+			],
+			[
+				"ERB ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ERB sni",
+				"Snippet: Ruby if unless inline"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"aligment",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
 				"packa",
 				"Package Control: Add Repository"
 			]
 		],
-		"width": 512.0
+		"width": 528.0
 	},
 	"console":
 	{
-		"height": 353.0
+		"height": 318.0
 	},
 	"distraction_free":
 	{
@@ -112,29 +790,272 @@
 	},
 	"file_history":
 	[
-		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-4.1.1/lib/active_record/relation/delegation.rb",
-		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/activerecord-4.1.1/lib/active_record/scoping/named.rb",
-		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/railties-4.1.1/lib/rails/commands/commands_tasks.rb",
-		"/C/Users/Katie/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Katie/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
-		"/C/Users/Katie/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Katie/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
-		"/C/Users/Katie/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-		"/C/Ruby193/DevKit/project_manager/app/views/people/index.html.erb",
-		"/C/Ruby193/DevKit/project_manager/app/views/people/show.html.erb",
-		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/execjs-2.0.2/lib/execjs/runtimes.rb",
-		"/C/Ruby193/DevKit/project_manager/config/routes.rb",
-		"/C/Ruby193/DevKit/project_manager/app/controllers/people_controller.rb"
+		"/C/xampp/htdocs/laravelLocal/app/Http/routes.php",
+		"/C/Users/Katie/Downloads/download (1)",
+		"/C/Users/Katie/Documents/Resumes/BAH Interviewers.txt",
+		"/C/xampp/htdocs/laravelLocal/public/css/style.css",
+		"/C/xampp/htdocs/laravel/laravel/public/scss/style.scss",
+		"/C/xampp/htdocs/laravel/laravel/composer.json",
+		"/C/xampp/htdocs/laravelLocal/vendor/phpspec/phpspec/bin/phpspec",
+		"/C/xampp/htdocs/laravelLocal/vendor/bin/phpspec",
+		"/C/xampp/htdocs/laravelLocal/resources/views/layouts/main.blade.php",
+		"/C/xampp/htdocs/laravelLocal/public/js/jquery.ui.touch-punch.min.js",
+		"/C/xampp/htdocs/laravelLocal/public/js/peg_jumping_game.js",
+		"/C/xampp/htdocs/laravelLocal/public/css/trkr.css",
+		"/C/Users/Katie/Documents/Clearance Pre-Screen Notes.txt",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/comedy.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/resume.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/projects.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/personal.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/football.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/art.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/projects/peg_game.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/pages/home.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/includes/headlinks.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/includes/navmenu.blade.php",
+		"/C/xampp/htdocs/laravelLocal/resources/views/layouts/master.blade.php",
+		"/C/xampp/htdocs/laravelLocal/public/css/trkr-home.css",
+		"/C/xampp/htdocs/laravelLocal/public/css/nav_menu.css",
+		"/C/xampp/htdocs/laravelLocal/resources/views/includes/UNUSED_title.blade.php",
+		"/C/Users/Katie/Documents/Resumes/KLR Resume Notes",
+		"/C/xampp/htdocs/laravel/laravel/public/css/democratic-1.css",
+		"/C/xampp/htdocs/laravel/laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/laravel/laravel/resources/views/pages/testing.php",
+		"/C/xampp/htdocs/laravel/laravel/public/js/get_public_js.js",
+		"/C/xampp/htdocs/laravel/laravel/public/css/nami_custom.css",
+		"/C/Users/Katie/Documents/Resumes/Sample Code/NAMI.css",
+		"/C/xampp/htdocs/ht/a/GetImageAction/i/3681",
+		"/C/xampp/htdocs/laravel/laravel/resources/views/pages/temp.php",
+		"/C/xampp/htdocs/laravelLocal/public/js/main.js",
+		"/C/xampp/htdocs/laravel/laravel/public/css/menu.css",
+		"/C/xampp/htdocs/laravelLocal/public/css/peg_jumping_game.css",
+		"/C/xampp/htdocs/testing/js_2048/css/js_2048.css",
+		"/C/xampp/htdocs/testing/js_2048/index.html",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/models/unkresponses.php",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/unkresponses.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/models/forms/response.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/models/approvalform.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/helpers/html/grid.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/controllers/unkresponses.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/unkresponses/view.html.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/unkresponses/tmpl/default_head.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/unkresponses/tmpl/default.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/unkresponses/tmpl/default.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/helpers/html/rsvp.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/helpers/html/attendance.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/responses/view.html.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/responses/tmpl/default_head.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/attendance/view.html.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/attendance/tmpl/default.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/responses/tmpl/default.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/responses/tmpl/default.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/recordattendance/tmpl/default_body.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/attendance/tmpl/default.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/unkresponses/tmpl/default_body.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/responses/tmpl/default_body.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/site/views/recordattendance/tmpl/default.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/attendance.xml",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/php.ini.bak.2015-04-23",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/.htaccess.bak2",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/Backup Of .htaccess",
+		"/C/Users/Katie/Downloads/jos_sched_times.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/prod_version/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/sql/updates/mysql/0.0.14.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/language/en-GB/en-GB.com_attendance.ini",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/language/en-GB/en-GB.com_attendance.sys.ini",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin - Copy/language/en-GB/en-GB.com_attendance.ini",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from portal 2015-04-24/en-GB.com_attendance.ini",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/attendance 2.xml",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/controller.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/controller.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/config.xml",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/config.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/attendance.php",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/attendance.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from portal 2015-04-24/helpers/attendance.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/helpers/attendance.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/access.xml",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/access.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from portal 2015-04-24/en-GB.com_attendance.sys.ini",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from portal 2015-04-24/tables/types.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/tables/types.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from 41/admin/language/en-GB/en-GB.com_attendance.ini",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/views/event/view.html.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from 41/attendance.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from portal 2015-04-24/views/type/tmpl/edit.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/views/type/tmpl/edit.php",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from 41/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance_2015_04_24/from backup March 2014/admin/sql/updates/mysql/0.0.1.sql",
+		"/C/Users/Katie/Documents/Development/Attendance Backup 3-6-14/com_attendance_admin_3_7_14/attendance.xml",
+		"/C/Users/Katie/Documents/Development/Attendance Backup 3-6-14/com_attendance_admin_3_7_14/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/sql/updates/mysql/0.0.3.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/language/en-GB/en-GB.com_attendance.sys.ini",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/en-GB.com_banners.sys.ini",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/banners.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/attendance.xml",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/en-GB.com_banners.ini",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/attendance.xml",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/sql/updates/mysql/0.0.2.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/sql/uninstall.mysql.utf8.sql",
+		"/C/Users/Katie/AppData/Local/Temp/Temp1_attendance_2.zip/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/AppData/Local/Temp/Temp1_attendance_7.zip/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/AppData/Local/Temp/Temp1_attendance.zip/admin/sql/install.mysql.utf8.sql",
+		"/C/Users/Katie/AppData/Local/Temp/Temp1_attendance.zip/admin/sql/updates/mysql/0.0.2.sql",
+		"/C/Users/Katie/Downloads/therea35_NYSP.sql",
+		"/C/Users/Katie/Documents/Development/dev2/Teamsched/attendance41_b/admin/sql/updates/mysql/0.0.6.sql",
+		"/C/Users/Katie/AppData/Local/Temp/Temp1_attendance41.zip/admin/sql/updates/mysql/0.0.1.sql",
+		"/C/xampp/htdocs/testing/js_2048/js_2048.js",
+		"/C/xampp/htdocs/laravel/laravel/resources/views/pages/projects.blade.php",
+		"/C/xampp/htdocs/laravel/laravel/public/js/gcal.js",
+		"/C/xampp/htdocs/laravelLocal/public/index.php",
+		"/C/xampp/htdocs/laravelLocal/bootstrap/app.php",
+		"/C/xampp/htdocs/laravelLocal/server.php",
+		"/C/xampp/htdocs/laravelLocal/public/.htaccess",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/laravelLocal/resources/views/includes/title.blade.php",
+		"/C/Users/Katie/AppData/Local/Temp/fz3temp-1/.php.ini.bkup",
+		"/C/xampp/htdocs/laravelLocal/php.ini"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
+			"C:\\xampp\\htdocs\\laravelLocal",
+			"C:\\xampp\\htdocs\\laravel\\laravel",
+			"C:\\xampp\\htdocs\\laravelLocal",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources\\views\\includes",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources\\views",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources\\views\\pages",
+			"C:\\xampp\\htdocs\\laravelLocal\\resources\\views",
+			"C:\\Users\\Katie\\Documents\\Development\\dev2\\Teamsched\\attendance_2015_04_24\\from backup March 2014",
+			"C:\\xampp\\apache",
+			"C:\\xampp\\htdocs\\laravelLocal",
+			"C:\\Users\\Katie\\AppData\\Local\\Temp\\pip_build_Katie\\pyjs\\examples",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\public\\assets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\stylesheets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\bootstrap-sass-3.3.4",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\stylesheets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\javascripts",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\stylesheets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\controllers",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\views",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\db",
+			"C:\\Users\\Katie\\Downloads\\extracted items\\bootstrap-sass-3.3.1.tar\\bootstrap-sass-3.3.1",
+			"C:\\Users\\Katie\\Downloads\\extracted items\\bootstrap-sass-3.3.1.tar\\bootstrap-sass-3.3.1\\assets\\stylesheets",
+			"C:\\Users\\Katie\\Downloads\\extracted items\\bootstrap-sass-3.3.1.tar\\bootstrap-sass-3.3.1\\assets\\stylesheets\\bootstrap",
+			"C:\\Users\\Katie\\Downloads\\extracted items\\bootstrap-sass-3.3.1.tar\\bootstrap-sass-3.3.1\\assets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\models",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\javascripts",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\models",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\models",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\app\\assets\\stylesheets\\active_admin\\components",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\nested_form-0.3.2\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.1.0.rc2\\lib\\simple_form",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.1.0.rc2",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\jquery-ui-rails-5.0.0",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\app\\assets\\javascripts",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\assets\\stylesheets",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form\\inputs",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\models",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\devise-526cc2cf7451",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\devise-526cc2cf7451\\app",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\devise-526cc2cf7451",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\devise-526cc2cf7451\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\admin",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib\\active_admin",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\acts_as_tenant-0.3.6\\lib\\acts_as_tenant",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib\\formtastic",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib\\formtastic",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\simple_form-3.0.2\\lib\\simple_form",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\formtastic-3.0.0\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib\\active_admin",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\activeadmin-40ac6655d67e\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-35084ca71a48\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-35084ca71a48",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-35084ca71a48\\lib",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\models",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app\\controllers",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1\\app",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-35084ca71a48\\lib",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-9cfc45330e5a",
+			"C:\\Users\\Katie\\Documents\\Development\\TeamRockett\\DevSite1\\dev1",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-9cfc45330e5a\\lib",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\gems\\activeadmin-sortable-0.0.3",
+			"C:\\Ruby193\\lib\\ruby\\gems\\1.9.1\\bundler\\gems\\active_admin-9cfc45330e5a\\lib\\active_admin"
 		]
 	},
 	"find_state":
@@ -142,8 +1063,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"key",
-			"align"
+			"nav-home",
+			"kr-",
+			"div.kr-",
+			".nav-item.kr",
+			"$app->run()",
+			"SassCompiler",
+			"$app->run()",
+			"bin\\phpspec",
+			"phpspec",
+			"$app->run",
+			"img ",
+			"<img class=\"",
+			"<a href=\"",
+			"img ",
+			"<a href=",
+			"img ",
+			"font-family",
+			"  /*",
+			"-webkit-transition",
+			"-webkit-transform:",
+			"moz-transform-ori",
+			"transform-ori",
+			"-o-",
+			"dl-horizontal",
+			"trebu",
+			"color-version",
+			"/****",
+			"@extends",
+			"@include",
+			"title-container",
+			"image-source-link",
+			"mfp",
+			"title-large",
+			"main-width-60",
+			"testing",
+			"src=\"images/c",
+			"\"></a>",
+			"\" ></a>",
+			"\"></a>",
+			"src=\"images/content/",
+			"\" >",
+			"<a href=\"images/",
+			"nodeName",
+			"js",
+			"<img src=\"/resources/i/clu2/print/tick_icon.png\" border=\"0\">",
+			"Rock",
+			"Alegreya",
+			"snap",
+			"art",
+			"span",
+			"<div><h2",
+			"  background-color:#eadf48;\n border-color: #eadf48;",
+			"[data-type=",
+			"show-title",
+			"data-show-title",
+			"font-fam",
+			"<h3>",
+			"\"item-text\"",
+			"class=\"item-wrapper\"",
+			"class=\"item-text\"",
+			"item-text",
+			"football",
+			"<h3>",
+			"<dl>",
+			"</dl>",
+			"</h3>",
+			"<h3>",
+			"</h4>",
+			"<h4>",
+			"</h5>",
+			"<h5>",
+			"h5",
+			"h3",
+			"<dt></span>",
+			"<dt>",
+			"item-wrapp",
+			"data-type=\"\"",
+			"data-type",
+			"data-type=\"\"",
+			"data-type=",
+			"data-type=\"\"",
+			"data-type=",
+			"data-type=\"\"",
+			"					-",
+			"</p>",
+			"<p>",
+			"Personal",
+			"personal",
+			"</p>",
+			"<p>",
+			"COM_ATTENDANCE_",
+			" (",
+			"CREATE ",
+			"CREATE TABLE IF NOT EXISTS",
+			"ins",
+			"jos_",
+			"AUTO_INCREMENT=",
+			"CREATE TABLE",
+			"CHARSET=latin1",
+			"AUTO_INCREMENT=",
+			"=InnoDB",
+			"TYPE=",
+			"ENGINE=",
+			"2vw",
+			"// ",
+			"9px",
+			"-8px",
+			"0px)",
+			"0px",
+			"-80px",
+			"1vw",
+			"/fullsizx",
+			"/gallery",
+			"/fullsize",
+			"_sm",
+			" ></a",
+			"  class=\"w",
+			"._sm",
+			"src=\"images/content/football",
+			"href=\"images/content/football/",
+			" class=\"without",
+			"/laravelLocal/public",
+			"href=\"/laravelLocal/public",
+			"listen 80",
+			"listen",
+			"/../public",
+			"'public' =>",
+			"public"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -151,6 +1198,101 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"",
+			"panel_Z panel-default_Z",
+			" ",
+			"  ",
+			"\\n",
+			"{:",
+			"\\]\\n\\n\\n\\t\\//",
+			"\\n\\t\\{",
+			"0",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"{",
+			" => ",
+			", :",
+			"},\\n\\t{",
+			"\\}\\n\\]",
+			"\\]\\n\\}",
+			"\\[\\n\\{",
+			"[\\n{",
+			"\"",
+			",\\n\\t\\t@",
+			",\\n\\t@",
+			">>,\\n",
+			"payment",
+			"Payment",
+			"payment",
+			"Payment",
+			"main-nav",
+			"simple-nav",
+			";\\n\\}",
+			"\\}\\n#",
+			"\\n#",
+			"\\n\\t",
+			"'},\\n",
+			"\\n\\t{:tz_info => '",
+			"\\n {:tz_info => '",
+			"\\n>,",
+			",\\n\\t location:",
+			",\\n\\t id:",
+			",\\n\\t url:",
+			",\\n\\t allDay:",
+			",\\n\\t end:",
+			",\\n\\t start:",
+			",\\n\\t description:",
+			",\\n\\t title:",
+			"\\n#<GCalEvent id: ",
+			"#<GCalEvent id: \\n",
+			"t.integer",
+			"link_to",
+			"form_submission,",
+			"form_submission.",
+			"form_submission_item",
+			"Submission",
+			"_submission",
+			"FormField",
+			"form_field",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"form",
+			"Form",
+			"Playbook",
+			"playbook",
+			"Upload",
+			"upload",
+			"h2>",
+			"Response",
+			"response",
+			"user",
+			"User",
+			"person",
+			"Person",
+			"People",
+			"people",
+			"user",
+			"User",
+			"Location",
+			"location",
+			"event",
+			"Event",
+			"EventType",
+			"Event_type",
+			"event_type",
+			"Role",
+			"role"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -161,29 +1303,28 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 15,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/controllers/people_controller.rb",
 					"settings":
 					{
-						"buffer_size": 365,
+						"buffer_size": 480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								309,
-								309
+								446,
+								446
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_name": "Wellversed in both JavaScript and CSS fundamentals",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -193,23 +1334,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/views/people/index.html.erb",
+					"file": "/C/xampp/htdocs/laravelLocal/composer.json",
 					"settings":
 					{
-						"buffer_size": 126,
+						"buffer_size": 869,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126,
-								126
+								354,
+								354
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -219,24 +1361,24 @@
 				},
 				{
 					"buffer": 2,
-					"file": "config/routes.rb",
+					"file": "/C/xampp/htdocs/laravelLocal/resources/views/includes/headlinks.blade.php",
 					"settings":
 					{
-						"buffer_size": 1622,
+						"buffer_size": 1926,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								153,
+								153
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -247,49 +1389,77 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/views/people/show.html.erb",
+					"file": "/C/xampp/htdocs/laravelLocal/public/scss/style.scss",
 					"settings":
 					{
-						"buffer_size": 91,
+						"buffer_size": 4400,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								4069,
+								4069
+							],
+							[
+								4122,
+								4122
+							],
+							[
+								4175,
+								4175
+							],
+							[
+								4227,
+								4227
+							],
+							[
+								4276,
+								4276
+							],
+							[
+								4327,
+								4327
+							],
+							[
+								4380,
+								4380
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"auto_name": "$color_one: green;",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1727.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "app/views/layouts/application.html.erb",
+					"file": "/C/xampp/htdocs/laravel/laravel/vendor/phpspec/phpspec/bin/phpspec",
 					"settings":
 					{
-						"buffer_size": 338,
+						"buffer_size": 801,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								329,
-								329
+								780,
+								780
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -299,23 +1469,23 @@
 				},
 				{
 					"buffer": 5,
-					"file": "db/migrate/20140523180625_create_people.rb",
+					"file": "/C/xampp/htdocs/laravel/laravel/resources/views/pages/contact.blade.php",
 					"settings":
 					{
-						"buffer_size": 258,
+						"buffer_size": 3559,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								258,
-								258
+								645,
+								645
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -325,10 +1495,10 @@
 				},
 				{
 					"buffer": 6,
-					"file": "db/schema.rb",
+					"file": "/C/xampp/htdocs/laravel/laravel/public/css/old_style.css",
 					"settings":
 					{
-						"buffer_size": 991,
+						"buffer_size": 7852,
 						"regions":
 						{
 						},
@@ -336,12 +1506,41 @@
 						[
 							[
 								0,
-								0
+								7852
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4366.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/laravel/laravel/composer.json",
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -350,27 +1549,266 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "app/models/person.rb",
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/laravel/laravel/public/index.php",
 					"settings":
 					{
-						"buffer_size": 431,
+						"buffer_size": 1812,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								299,
-								299
+								1611,
+								1611
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 519.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/laravelLocal/public/index.php",
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1614,
+								1614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"settings":
+					{
+						"buffer_size": 17193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2548,
+								2529
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1549.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/xampp/htdocs/laravelLocal/public/css/trkr.css",
+					"settings":
+					{
+						"buffer_size": 19356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10940,
+								10940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10855.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/xampp/htdocs/laravelLocal/resources/views/includes/navmenu.blade.php",
+					"settings":
+					{
+						"buffer_size": 3218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/laravel/laravel/resources/views/pages/projects.blade.php",
+					"settings":
+					{
+						"buffer_size": 3610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2000,
+								2000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 508.0,
+						"translation.y": 322.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/xampp/htdocs/laravelLocal/resources/views/pages/projects/flickr.blade.php",
+					"settings":
+					{
+						"buffer_size": 3560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1287,
+								1287
+							]
+						],
+						"settings":
+						{
+							"auto_name": "DevOps: DO",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"settings":
+					{
+						"buffer_size": 4198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4198,
+								4198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 963.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"settings":
+					{
+						"buffer_size": 2315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 243.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -380,7 +1818,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -409,11 +1847,15 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 62.0
 	},
-	"save_all_on_build": true,
+	"save_all_on_build": false,
 	"select_file":
 	{
 		"height": 0.0,
@@ -430,10 +1872,10 @@
 		],
 		"width": 380.0
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 294.0,
+	"side_bar_width": 343.0,
 	"status_bar_visible": true
 }

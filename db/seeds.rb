@@ -5,3 +5,12 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+[
+	{:title => "Planning",		:position => 1},
+	{:title => "Implementing",	:position => 2},
+	{:title => "Completed",		:position => 3},
+	{:title => "Maintaining",	:position => 4}
+].each do |attributes|
+	Status.where(title: attributes[:title]).first_or_create(attributes)
+end
